@@ -1,5 +1,7 @@
 # VLSI-DESIGN-6325
-Project Files - VLSI Design 
+Project Files - VLSI Design (6325) 
+
+Tools Used: Cadence Virtuoso, Innovus, Synopsys Design Vision, PrimeLib, LC Shell, Mentor Graphics Calibre
 
 Project 1 - Verilog Design of Sequence Detector 
 
