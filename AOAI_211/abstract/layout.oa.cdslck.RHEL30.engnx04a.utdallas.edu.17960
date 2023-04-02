@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sxr220066
+HostName                       engnx04a.utdallas.edu
+ProcessIdentifier              17960
+ProcessCreationTime_UTC        1666589228
+ProcessCreationTime_Readable   Mon Oct 24 00:27:08 2022 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/012/s/sx/sxr220066/VLSI/cad/gf65/tutorial_2/AOAI_211/abstract/layout.oa.cdslck
+TimeEditLocked                 Wed Oct 26 03:43:48 2022 CDT
